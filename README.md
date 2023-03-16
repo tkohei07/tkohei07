@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science MS @ UW-Madison
 --------------------------------
 
-I am an M.S. student in Computer Science at the University of Wisconsin–Madison. I have three years of software development experience using C++.
+I am an M.S. student in Computer Science at the University of Wisconsin–Madison. I have three years of software development experience.
 
 * 🌍  I'm based in Madison, Wisconsin
 * ✉️  You can contact me at [tagai@wisc.edu](mailto:tagai@wisc.edu)
