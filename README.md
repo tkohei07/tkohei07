@@ -7,7 +7,7 @@ MS in Computer Science from University of Wisconsin-Madison 🎓 | Software Engi
 
 ### Skills
 
-Node.js, C++, Python, JavaScript, React, Go, Vue.js, GCP, AWS, Docker, Terraform, Kubernetes, CircleCI
+Node.js, C++, Python, JavaScript, Go, TypeScript, Vue, React, GCP, AWS, Docker, Terraform, Kubernetes, CircleCI
 
 ### Socials
 
